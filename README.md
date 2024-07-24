@@ -4,4 +4,4 @@ JsInheritance is an Javascript Object Oriented Programming visualizer aimed to l
 
 This repository is a fork of the original jsinheritance repository so that I could add Spanish and French translation to it.
 
-The original project can be found (here)[https://github.com/rus0000/jsinheritance]
+The original project can be found [here](https://github.com/rus0000/jsinheritance)
